@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/nathpaiva/project-release/compare/v1.0.1...v1.1.0) (2021-05-17)
+
+
+### Features
+
+* removes old link ([1e66993](https://github.com/nathpaiva/project-release/commit/1e66993e5950993cce09dc11a701f81a8e56033f))
+
 ## [1.0.1](https://github.com/nathpaiva/project-release/compare/v1.0.0...v1.0.1) (2021-05-17)
 
 
