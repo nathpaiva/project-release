@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/nathpaiva/project-release/compare/v1.0.0...v1.0.1) (2021-05-17)
+
+
+### Bug Fixes
+
+* changes content ([9d2556c](https://github.com/nathpaiva/project-release/commit/9d2556c60dab4f1ff6f5ebb725dab08a2895d934))
+
 # 1.0.0 (2021-05-17)
 
 
