@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/nathpaiva/project-release/compare/v1.4.0...v1.5.0) (2021-05-18)
+
+
+### Features
+
+* remove config from package.json ([0757d94](https://github.com/nathpaiva/project-release/commit/0757d94f6d71c20fd042fe25ad1ce6aa8100739b))
+
 # [1.4.0](https://github.com/nathpaiva/project-release/compare/v1.3.0...v1.4.0) (2021-05-18)
 
 
