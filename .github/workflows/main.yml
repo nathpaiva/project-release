@@ -3,7 +3,7 @@ name: Project release
 on:
   push:
     branches:
-      - master
+      - next
 jobs:
   publish:
     runs-on: ubuntu-latest
