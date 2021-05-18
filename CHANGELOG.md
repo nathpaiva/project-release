@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/nathpaiva/project-release/compare/v1.1.0...v1.2.0) (2021-05-18)
+
+
+### Features
+
+* adds new value ([f115275](https://github.com/nathpaiva/project-release/commit/f11527538e82fe4955a8852ab2e97b5dd32cb441))
+
 # [1.1.0](https://github.com/nathpaiva/project-release/compare/v1.0.1...v1.1.0) (2021-05-17)
 
 
