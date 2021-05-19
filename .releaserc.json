@@ -7,9 +7,6 @@
     "@semantic-release/npm",
     "@semantic-release/git"
   ],
-  "branches": [
-    "next"
-  ],
   "prepare": [
     "@semantic-release/changelog",
     "@semantic-release/npm",
