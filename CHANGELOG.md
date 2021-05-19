@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/nathpaiva/project-release/compare/v1.5.0...v1.6.0) (2021-05-19)
+
+
+### Features
+
+* changes config ([8d79284](https://github.com/nathpaiva/project-release/commit/8d79284b587abc8e40005d5b64da8b7d78fa9ef2))
+
 # [1.5.0](https://github.com/nathpaiva/project-release/compare/v1.4.0...v1.5.0) (2021-05-18)
 
 
