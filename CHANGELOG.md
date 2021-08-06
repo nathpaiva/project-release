@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/nathpaiva/project-release/compare/v1.8.0...v1.9.0) (2021-08-06)
+
+
+### Features
+
+* changes text ([#4](https://github.com/nathpaiva/project-release/issues/4)) ([a80f5c0](https://github.com/nathpaiva/project-release/commit/a80f5c022ca1bc09aa82f98f4a4b90e378abcb5e))
+
 # [1.8.0](https://github.com/nathpaiva/project-release/compare/v1.7.0...v1.8.0) (2021-08-06)
 
 
