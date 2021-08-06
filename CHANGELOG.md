@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/nathpaiva/project-release/compare/v1.7.0...v1.8.0) (2021-08-06)
+
+
+### Features
+
+* add name ([#3](https://github.com/nathpaiva/project-release/issues/3)) ([b99468a](https://github.com/nathpaiva/project-release/commit/b99468af37e9479353bcdebcb9c3b6c428825ad5))
+
 # [1.7.0](https://github.com/nathpaiva/project-release/compare/v1.6.0...v1.7.0) (2021-08-06)
 
 
