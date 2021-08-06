@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/nathpaiva/project-release/compare/v1.6.0...v1.7.0) (2021-08-06)
+
+
+### Features
+
+* changes text ([77e7449](https://github.com/nathpaiva/project-release/commit/77e7449a1e7163eed8a69e5ecbc6c0f0bb846e5e))
+
 # [1.6.0](https://github.com/nathpaiva/project-release/compare/v1.5.0...v1.6.0) (2021-05-19)
 
 
